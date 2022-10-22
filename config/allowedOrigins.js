@@ -1,5 +1,6 @@
 const allowedOrigins = [
-    'https://technotes.onrender.com'
+    
+    'https://technotes-4zo6.onrender.com'
 ]
 
 module.exports = allowedOrigins
